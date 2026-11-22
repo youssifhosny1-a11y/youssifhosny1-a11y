@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0B132B,50:1C3D70,100:00B4D8&text=Youssef%20Hosny&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=Backend%20Developer%20%7C%20AI%20%26%20Data%20Science&descSize=17&descAlignY=68&animation=fadeIn" />
 </div>
@@ -99,4 +99,3 @@ I enjoy designing RESTful APIs, working with databases, and implementing secure 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&section=footer&color=0:0B132B,50:1C3D70,100:00B4D8" />
 </div>
-```
