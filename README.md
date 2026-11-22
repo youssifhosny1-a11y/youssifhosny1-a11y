@@ -1,83 +1,122 @@
+
 <div align="center">
 
-# Youssef Hosny
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Youssef+Hosny;Backend+Developer+%7C+Node.js;Building+APIs+%26+Scalable+Applications;AI+%26+Data+Science" alt="Animated introduction" />
 
-### Backend Developer | Node.js & Express.js | AI & Data Science
+<br/>
 
-Building reliable backend systems and exploring how AI can solve real-world problems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hosny-270170248/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youssifhosny1-a11y)
+<a href="https://github.com/youssifhosny1-a11y">
+<img src="https://komarev.com/ghpvc/?username=youssifhosny1-a11y&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
+</a>
+<a href="https://www.linkedin.com/in/youssef-hosny-270170248/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/youssifhosny1-a11y">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-- Backend-focused developer working with **JavaScript, Node.js, and Express.js**.
-- Building RESTful APIs with authentication, authorization, and database integration.
-- Studying **Artificial Intelligence and Data Science** at Zagazig National University.
+I'm a **Backend Developer** focused on building clean, secure, and reliable applications using **Node.js** and **Express.js**.
+
+- Developing RESTful APIs and backend applications.
+- Building secure authentication and authorization systems.
+- Working with relational and NoSQL databases.
+- Exploring Artificial Intelligence and Data Science.
 - Completed a 5-month Backend Development with Node.js program.
-- Interested in backend engineering, software architecture, and practical AI applications.
-- Competed in the **ECPC 2026 Qualifiers**.
+- Competed in the ECPC 2026 Qualifiers.
+
+---
 
 ## Tech Stack
 
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
-
-**Languages & Tools**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-## Featured Project
-
-### E-commerce REST API
-
-A backend API for an e-commerce application, built with Node.js and Express.js.
-
-- JWT-based authentication.
-- Role-based access control.
-- Product management (CRUD).
-- Cart and order functionality.
-- Request validation using Zod.
-- PostgreSQL / MongoDB experience across backend projects and practice.
-
-[![View Repository](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youssifhosny1-a11y/ecommerce)
-
-## GitHub Stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=youssifhosny1-a11y&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Youssef's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssifhosny1-a11y&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+### Backend & Databases
 
-<img src="https://streak-stats.demolab.com?user=youssifhosny1-a11y&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" />
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=js,python,cpp&theme=dark" />
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
 </div>
 
-## Let's Connect
-
-- **LinkedIn:** [youssef-hosny](https://www.linkedin.com/in/youssef-hosny-270170248/)
-- **GitHub:** [@youssifhosny1-a11y](https://github.com/youssifhosny1-a11y)
-
 ---
+
+## Featured Project
 
 <div align="center">
 
-*Always learning. Always building.*
+<a href="https://github.com/youssifhosny1-a11y/ecommerce">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=youssifhosny1-a11y&repo=ecommerce&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### E-commerce REST API
+
+A backend application built with Node.js and Express.js.
+
+- JWT Authentication.
+- Role-Based Access Control (RBAC).
+- Products CRUD Operations.
+- Shopping Cart & Orders.
+- Request Validation using Zod.
+- Database Integration.
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=youssifhosny1-a11y&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssifhosny1-a11y&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=youssifhosny1-a11y&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youssifhosny1-a11y&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/youssef-hosny-270170248/">
+<img src="https://img.shields.io/badge/LinkedIn-Youssef_Hosny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/youssifhosny1-a11y">
+<img src="https://img.shields.io/badge/GitHub-youssifhosny1--a11y-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+### Always Learning. Always Building.
 
 </div>
