@@ -1,14 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:123B72,70:176B87,100:38BDF8&height=220&section=header&text=Youssef%20Hosny&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%7C%20NODE.JS%20%7C%20AI%20%26%20DATA%20SCIENCE&descSize=15&descAlignY=60&animation=fadeIn" alt="Youssef Hosny header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:070B16,25:102A43,55:075985,100:0EA5E9&height=185&section=header&text=Youssef%20Hosny&fontSize=54&fontColor=FFFFFF&fontAlignY=42&desc=BACKEND%20DEVELOPMENT%20%2F%2F%20NODE.JS%20%2F%2F%20API%20ENGINEERING&descSize=14&descAlignY=72&animation=fadeIn" alt="Youssef Hosny technology-themed header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=58D5FF&center=true&vCenter=true&width=720&lines=Building+reliable+backend+systems;Designing+RESTful+APIs;Working+with+databases+%26+authentication;Always+learning.+Always+improving." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=750&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+reliable+backend+systems;Designing+RESTful+APIs;Authentication+%7C+Databases+%7C+Server-side+Logic;Turning+ideas+into+working+software" alt="Animated backend developer introduction"/>
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/youssef-hosny-270170248/"><img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-&nbsp;
-<a href="https://github.com/youssifhosny1-a11y"><img src="https://img.shields.io/badge/GitHub-FOLLOW-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+<a href="https://www.linkedin.com/in/youssef-hosny-270170248/" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="58" height="58" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/youssifhosny1-a11y" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="58" height="58" alt="GitHub"/>
+</a>
 
 </div>
 
@@ -75,22 +79,3 @@ My work centers on API development, authentication and authorization, database i
 - MongoDB data modeling
 - Input validation and error handling
 - Git-based version control
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/youssef-hosny-270170248/">
-  <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Hosny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youssef Hosny on LinkedIn"/>
-</a>
-<a href="https://github.com/youssifhosny1-a11y">
-  <img src="https://img.shields.io/badge/GitHub-youssifhosny1--a11y-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Youssef Hosny on GitHub"/>
-</a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,45:176B87,75:123B72,100:0B1020&height=115&section=footer" alt="Footer decoration"/>
-
-</div>
