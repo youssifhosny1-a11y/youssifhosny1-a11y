@@ -1,26 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:070B16,25:102A43,55:075985,100:0EA5E9&height=185&section=header&text=Youssef%20Hosny&fontSize=54&fontColor=FFFFFF&fontAlignY=42&desc=BACKEND%20DEVELOPMENT%20%2F%2F%20NODE.JS%20%2F%2F%20API%20ENGINEERING&descSize=14&descAlignY=72&animation=fadeIn" alt="Youssef Hosny technology-themed header"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=750&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+reliable+backend+systems;Designing+RESTful+APIs;Authentication+%7C+Databases+%7C+Server-side+Logic;Turning+ideas+into+working+software" alt="Animated backend developer introduction"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/youssef-hosny-270170248/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="58" height="58" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/youssifhosny1-a11y" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="58" height="58" alt="GitHub"/>
-</a>
-
-</div>
+<img src="https://raw.githubusercontent.com/youssifhosny1-a11y/youssifhosny1-a11y/main/assets/profile-header.svg" width="100%" alt="Youssef Hosny — Backend Developer"/>
 
 <br/>
 
-<div align="center">
+<a href="https://www.linkedin.com/in/youssef-hosny-270170248/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="54" height="54" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/youssifhosny1-a11y">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="54" height="54" alt="GitHub"/>
+</a>
 
-### ⚡ BACKEND ENGINEERING · API DEVELOPMENT · PROBLEM SOLVING
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+reliable+backend+systems;Designing+RESTful+APIs;Working+with+databases+%26+authentication;Always+learning.+Always+improving." alt="Animated introduction"/>
 
 </div>
 
@@ -79,3 +73,11 @@ My work centers on API development, authentication and authorization, database i
 - MongoDB data modeling
 - Input validation and error handling
 - Git-based version control
+
+---
+
+<div align="center">
+
+<sub>Focused on backend engineering, continuous learning, and building solid technical foundations.</sub>
+
+</div>
