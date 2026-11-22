@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/youssifhosny1-a11y/youssifhosny1-a11y/main/assets/profile-header.svg" width="100%" alt="Youssef Hosny — Backend Developer"/>
+<img src="https://raw.githubusercontent.com/youssifhosny1-a11y/youssifhosny1-a11y/main/assets/profile-header.svg" width="100%" alt="Youssef Hosny"/>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/youssef-hosny-270170248/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="54" height="54" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/youssifhosny1-a11y">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="54" height="54" alt="GitHub"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Backend+Developer+%7C+Node.js;Building+reliable+backend+systems;Designing+RESTful+APIs;Databases+%7C+Authentication+%7C+AI" alt="Animated introduction"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+reliable+backend+systems;Designing+RESTful+APIs;Working+with+databases+%26+authentication;Always+learning.+Always+improving." alt="Animated introduction"/>
+<a href="https://www.linkedin.com/in/youssef-hosny-270170248/" title="LinkedIn">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="48" height="48" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/youssifhosny1-a11y" title="GitHub">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" height="48" alt="GitHub"/>
+</a>
 
 </div>
 
