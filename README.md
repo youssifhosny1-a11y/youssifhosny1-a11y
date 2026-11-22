@@ -32,9 +32,8 @@ Interested in clean API design, secure authentication, database integration, and
 - Authentication, authorization, and role-based access control
 - SQL and NoSQL database integration
 - Request validation and error handling
-- 5-month Backend Development with Node.js program
-- ECPC 2026 Qualifier competitor
-
+- Backend Development with Node.js program
+- study Artificial Intelligence and Data Science.
 ---
 
 ##  Technology Stack
