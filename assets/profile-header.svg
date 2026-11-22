@@ -1,13 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" fill="none">
-<defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="132" gradientUnits="userSpaceOnUse"><stop stop-color="#080D1B"/><stop offset=".55" stop-color="#111C35"/><stop offset="1" stop-color="#091827"/></linearGradient>
- <linearGradient id="title" x1="360" y1="30" x2="850" y2="100" gradientUnits="userSpaceOnUse"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
- <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#7DD3FC" stroke-opacity=".055"/></pattern>
-</defs>
-<rect width="1200" height="132" rx="16" fill="url(#bg)"/>
-<rect width="1200" height="132" rx="16" fill="url(#grid)"/>
-<path d="M0 104H150L176 78H220M980 132V106L1008 78H1200" stroke="#38BDF8" stroke-opacity=".28" stroke-width="1.5"/>
-<rect x="52" y="34" width="3" height="64" rx="1.5" fill="url(#title)"/>
-<text x="600" y="67" text-anchor="middle" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700" letter-spacing="-1.2">Youssef Hosny</text>
-<text x="600" y="96" text-anchor="middle" fill="url(#title)" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" letter-spacing="2">BACKEND DEVELOPER  |  SOFTWARE ENGINEER</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" fill="none">
+  <rect width="1200" height="104" rx="12" fill="#0B1220"/>
+  <rect x="500" y="18" width="200" height="2" rx="1" fill="#38BDF8" opacity=".8"/>
+  <text x="600" y="58" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="-.7" fill="#F8FAFC"><tspan fill="#38BDF8" font-size="17" font-weight="600" letter-spacing="1.5">ENG. </tspan><tspan>Youssef Hosny</tspan></text>
+  <text x="600" y="82" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="500" letter-spacing="1.8" fill="#A8B4C7">BACKEND DEVELOPER  |  SOFTWARE ENGINEER</text>
 </svg>
