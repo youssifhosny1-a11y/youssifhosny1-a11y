@@ -1,18 +1,23 @@
-<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" fill="none">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse"><stop stop-color="#080D1B"/><stop offset=".52" stop-color="#101B35"/><stop offset="1" stop-color="#071B2A"/></linearGradient>
-  <linearGradient id="name" x1="250" y1="45" x2="900" y2="135" gradientUnits="userSpaceOnUse"><stop stop-color="#F8FAFC"/><stop offset=".48" stop-color="#BAE6FD"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
-  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#7DD3FC" stroke-opacity=".07"/></pattern>
-  <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(0 125 -520 0 600 0)" gradientUnits="userSpaceOnUse"><stop stop-color="#0EA5E9" stop-opacity=".22"/><stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/></radialGradient>
+ <linearGradient id="base" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse"><stop stop-color="#050816"/><stop offset=".5" stop-color="#101B38"/><stop offset="1" stop-color="#071C2C"/></linearGradient>
+ <linearGradient id="shine" x1="250" y1="40" x2="930" y2="180" gradientUnits="userSpaceOnUse"><stop stop-color="#67E8F9"/><stop offset=".48" stop-color="#60A5FA"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+ <radialGradient id="aura" cx="0" cy="0" r="1" gradientTransform="matrix(0 160 -500 0 600 0)" gradientUnits="userSpaceOnUse"><stop stop-color="#2563EB" stop-opacity=".25"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#93C5FD" fill-opacity=".2"/></pattern>
+ <filter id="glow" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="12"/></filter>
 </defs>
-<rect width="1200" height="180" rx="20" fill="url(#bg)"/>
-<rect width="1200" height="180" rx="20" fill="url(#grid)"/>
-<rect width="1200" height="180" rx="20" fill="url(#glow)"/>
-<path d="M0 145H170L198 117H260M940 0V30L970 60H1200M1020 180V152L1048 124H1200" stroke="#38BDF8" stroke-opacity=".32" stroke-width="1.5"/>
-<path d="M56 45V135" stroke="#38BDF8" stroke-width="4" stroke-linecap="round"/>
-<circle cx="56" cy="45" r="4" fill="#67E8F9"/>
-<circle cx="56" cy="135" r="4" fill="#818CF8"/>
-<text x="600" y="112" text-anchor="middle" fill="url(#name)" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" letter-spacing="-1.8">Youssef Hosny</text>
-<path d="M430 137H770" stroke="#38BDF8" stroke-opacity=".65" stroke-width="2" stroke-linecap="round"/>
-<g fill="#38BDF8" opacity=".65"><circle cx="1090" cy="52" r="2"/><circle cx="1118" cy="52" r="2"/><circle cx="1146" cy="52" r="2"/><circle cx="1090" cy="80" r="2"/><circle cx="1118" cy="80" r="2"/><circle cx="1146" cy="80" r="2"/></g>
+<rect width="1200" height="220" rx="22" fill="url(#base)"/>
+<rect width="1200" height="220" rx="22" fill="url(#aura)"/>
+<rect width="1200" height="220" rx="22" fill="url(#dots)"/>
+<path d="M0 36H180L204 60H270M930 220V180L970 140H1200M0 184H110L140 154H210" stroke="#38BDF8" stroke-opacity=".35" stroke-width="1.5"/>
+<path d="M1040 0V36L1070 66H1200M900 0V18L924 42" stroke="#A78BFA" stroke-opacity=".35" stroke-width="1.5"/>
+<rect x="78" y="66" width="1044" height="100" rx="15" fill="#0B1225" fill-opacity=".68" stroke="#60A5FA" stroke-opacity=".25"/>
+<rect x="78" y="66" width="1044" height="100" rx="15" stroke="url(#shine)" stroke-opacity=".18"/>
+<circle cx="105" cy="88" r="4" fill="#FB7185"/><circle cx="120" cy="88" r="4" fill="#FBBF24"/><circle cx="135" cy="88" r="4" fill="#34D399"/>
+<path d="M106 126L121 139L106 152" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M132 152H149" stroke="#A78BFA" stroke-width="3" stroke-linecap="round"/>
+<text x="600" y="143" text-anchor="middle" fill="url(#shine)" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Youssef Hosny</text>
+<path d="M470 178H730" stroke="url(#shine)" stroke-width="2" stroke-linecap="round" opacity=".85"/>
+<path d="M470 178H730" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" opacity=".25" filter="url(#glow)"/>
+<g fill="#67E8F9" opacity=".8"><circle cx="1010" cy="78" r="2"/><circle cx="1032" cy="78" r="2"/><circle cx="1054" cy="78" r="2"/><circle cx="1010" cy="100" r="2"/><circle cx="1032" cy="100" r="2"/><circle cx="1054" cy="100" r="2"/></g>
 </svg>
