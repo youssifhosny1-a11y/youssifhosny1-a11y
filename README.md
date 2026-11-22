@@ -1,106 +1,96 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Youssef+Hosny;Backend+Developer+%7C+Node.js;APIs+%7C+Databases+%7C+Problem+Solving;AI+%26+Data+Science" alt="Youssef Hosny — Backend Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:123B72,70:176B87,100:38BDF8&height=220&section=header&text=Youssef%20Hosny&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%7C%20NODE.JS%20%7C%20AI%20%26%20DATA%20SCIENCE&descSize=15&descAlignY=60&animation=fadeIn" alt="Youssef Hosny header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=58D5FF&center=true&vCenter=true&width=720&lines=Building+reliable+backend+systems;Designing+RESTful+APIs;Working+with+databases+%26+authentication;Always+learning.+Always+improving." alt="Animated introduction"/>
 
 <br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/youssef-hosny-270170248/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/youssifhosny1-a11y"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=youssifhosny1-a11y&style=flat-square&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
+<a href="https://www.linkedin.com/in/youssef-hosny-270170248/"><img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+&nbsp;
+<a href="https://github.com/youssifhosny1-a11y"><img src="https://img.shields.io/badge/GitHub-FOLLOW-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
 
 </div>
 
----
+<br/>
 
-## About
+<div align="center">
 
-Backend Developer focused on building reliable server-side applications and RESTful APIs with **Node.js** and **Express.js**.
+### ⚡ BACKEND ENGINEERING · API DEVELOPMENT · PROBLEM SOLVING
 
-- Designing and developing RESTful APIs.
-- Implementing authentication and role-based authorization.
-- Working with relational and NoSQL databases.
-- Applying request validation and structured backend architecture.
-- Exploring Artificial Intelligence and Data Science.
-- Completed a 5-month Backend Development with Node.js program.
+</div>
+
+## 👨‍💻 About Me
+
+I’m a **Backend Developer** focused on building dependable server-side applications with **Node.js** and **Express.js**.
+
+My work centers on API development, authentication and authorization, database integration, and writing maintainable backend code. I also have an academic interest in **Artificial Intelligence and Data Science**.
+
+- Building and structuring RESTful APIs.
+- Implementing secure authentication and role-based access control.
+- Working with SQL and NoSQL databases.
+- Applying request validation and reliable error handling.
+- Backend Development with Node.js — 5-month program.
 - ECPC 2026 Qualifier competitor.
 
 ---
 
-## Technical Skills
+## 🧰 Tech Stack
 
 <div align="center">
 
 ### Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="58" alt="Node.js and Express.js"/>
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=js,python,cpp&theme=dark" alt="JavaScript, Python, C++"/>
+<img src="https://skillicons.dev/icons?i=js,python,cpp&theme=dark" height="58" alt="JavaScript, Python and C++"/>
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" alt="PostgreSQL and MongoDB"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" height="58" alt="PostgreSQL and MongoDB"/>
 
-### Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" alt="Git, GitHub, VS Code and npm"/>
+### Developer Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="58" alt="Git, GitHub and Visual Studio Code"/>
+<br/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/>
+<img src="https://img.shields.io/badge/Apidog-5546FF?style=flat-square&logo=swagger&logoColor=white" alt="Apidog"/>
 
 </div>
 
 ---
 
-## Core Concepts
+## 🔧 Backend Focus
 
 <div align="center">
 
-![REST API](https://img.shields.io/badge/RESTful_APIs-2F80ED?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![RBAC](https://img.shields.io/badge/Role--Based_Access_Control-6C5CE7?style=for-the-badge)
-![Validation](https://img.shields.io/badge/Request_Validation-Zod-3068B7?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/RESTful_API_Design-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful API Design"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication"/>
+<img src="https://img.shields.io/badge/RBAC-7C3AED?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="Role Based Access Control"/>
+<img src="https://img.shields.io/badge/Request_Validation-2563EB?style=for-the-badge&logo=zod&logoColor=white" alt="Request Validation"/>
 
 </div>
 
-- API design and CRUD operations
-- Authentication, authorization, and access control
-- Relational and document-based data modeling
-- Request validation and error handling
-- Version control and collaborative development workflows
+- API architecture, routing, and CRUD operations
+- Authentication, authorization, and permissions
+- SQL queries and database integration
+- MongoDB data modeling
+- Input validation and error handling
+- Git-based version control
 
 ---
 
-## GitHub Overview
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=youssifhosny1-a11y&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssifhosny1-a11y&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=youssifhosny1-a11y&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=youssifhosny1-a11y&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Contribution activity graph"/>
-
-</div>
-
----
-
-## Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/youssef-hosny-270170248/">
-  <img src="https://img.shields.io/badge/LinkedIn-Youssef_Hosny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Hosny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youssef Hosny on LinkedIn"/>
 </a>
 <a href="https://github.com/youssifhosny1-a11y">
-  <img src="https://img.shields.io/badge/GitHub-youssifhosny1--a11y-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-youssifhosny1--a11y-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Youssef Hosny on GitHub"/>
 </a>
 
 <br/><br/>
 
-<sub>Focused on backend engineering, continuous learning, and building solid technical foundations.</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,45:176B87,75:123B72,100:0B1020&height=115&section=footer" alt="Footer decoration"/>
 
 </div>
