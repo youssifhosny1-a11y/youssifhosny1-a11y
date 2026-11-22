@@ -1,0 +1,29 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse"><stop stop-color="#080D1B"/><stop offset=".52" stop-color="#101B35"/><stop offset="1" stop-color="#071B2A"/></linearGradient>
+  <linearGradient id="accent" x1="170" y1="55" x2="1000" y2="280" gradientUnits="userSpaceOnUse"><stop stop-color="#38BDF8"/><stop offset=".55" stop-color="#6366F1"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(0 210 -450 0 850 40)" gradientUnits="userSpaceOnUse"><stop stop-color="#0EA5E9" stop-opacity=".24"/><stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" stroke="#7DD3FC" stroke-opacity=".08"/></pattern>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="330" rx="24" fill="url(#glow)"/>
+<rect width="1200" height="330" rx="24" fill="url(#grid)"/>
+<path d="M0 270H220L260 230H370M830 0V48L870 88H1200M970 330V278L1010 238H1200" stroke="url(#accent)" stroke-opacity=".5" stroke-width="2"/>
+<path d="M0 80H90L125 115H190M1010 0V42L1040 72H1200M760 330V300L790 270H920" stroke="#38BDF8" stroke-opacity=".3" stroke-width="1.5"/>
+<circle cx="220" cy="270" r="4" fill="#38BDF8"/><circle cx="830" cy="48" r="4" fill="#22D3EE"/><circle cx="970" cy="278" r="4" fill="#818CF8"/>
+<circle cx="925" cy="160" r="92" fill="#2563EB" fill-opacity=".12" filter="url(#blur)"/>
+<g opacity=".8" stroke="#38BDF8" stroke-width="2">
+<path d="M910 118L866 165L910 212" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M970 118L1014 165L970 212" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M950 108L930 222" stroke="#818CF8" stroke-linecap="round"/>
+</g>
+<g fill="#67E8F9"><circle cx="866" cy="165" r="4"/><circle cx="1014" cy="165" r="4"/><circle cx="930" cy="222" r="3"/></g>
+<rect x="74" y="78" width="5" height="156" rx="2.5" fill="url(#accent)"/>
+<text x="108" y="130" fill="#7DD3FC" font-family="Consolas,monospace" font-size="17" letter-spacing="4">BACKEND DEVELOPER  /  NODE.JS</text>
+<text x="104" y="194" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Youssef Hosny</text>
+<text x="108" y="232" fill="#A5B4FC" font-family="Consolas,monospace" font-size="18">APIs · DATABASES · SOFTWARE ENGINEERING</text>
+<path d="M108 262H620" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
+<text x="108" y="292" fill="#64748B" font-family="Consolas,monospace" font-size="13">const focus = ['Node.js', 'Express', 'SQL', 'AI'];</text>
+<g fill="#38BDF8" opacity=".7"><circle cx="1090" cy="80" r="2"/><circle cx="1120" cy="80" r="2"/><circle cx="1150" cy="80" r="2"/><circle cx="1090" cy="110" r="2"/><circle cx="1120" cy="110" r="2"/><circle cx="1150" cy="110" r="2"/></g>
+</svg>
